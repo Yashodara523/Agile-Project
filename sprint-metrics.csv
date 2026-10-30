@@ -1,0 +1,5 @@
+sprint,start_week,end_week,sprint_goal,planned_points,completed_points,velocity,stories_planned,stories_done,defects_found,defects_fixed,scope_changes,goal_met
+1,1,2,Discover and foundation,31,28,28,7,6,5,4,No,Yes
+2,3,4,Core learning experience,37,34,34,6,5,7,6,Yes,Yes
+3,5,6,Assess and engage,40,32,32,7,6,9,8,Yes,Partial
+4,7,8,Validate and release,31,30,30,6,6,4,4,No,Yes
